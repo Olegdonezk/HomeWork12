@@ -1,0 +1,101 @@
+    1  git config --global -l
+    2  git config --global Barcelonic
+    3  git config --global itcareerhub
+    4  git config --global olegdozk@gmail.com
+    5  git config --global user.name Oleg
+    6  git config --global user.email olegdonezk@gmail.com
+    7  got config --global -l
+    8  git config --global user.name 
+    9  git config --global user.name 
+   10  cd /c/itcarieerhub
+   11  ls -al
+   12  cd C:\itcareerhub
+   13  cd /C:\itcareerhub
+   14  cd /C:/itcareerhub
+   15  git config
+   16  git config --global -al
+   17  git config --global -l
+   18  git init
+   19  ls -al
+   20  git status
+   21  git status
+   22  git add Song.txt
+   23  git status
+   24  la -al
+   25  ls -al
+   26  git commit -m "Inital commit"
+   27  git status
+   28  git commit -am "Add 2 lines is Song.txt"
+   29  git log
+   30  git remote -v
+   31  git remote add origin git@github.com:Olegdonezk/ITcareerHub-Oleg-101025.ptm.git
+   32  git remote -v
+   33  git branch -M main
+   34  git push -u origin main
+   35  git log
+   36  git clone
+   37  git@github.com:AndreevVE/101025-ptm-Test.git
+   38  git clone git@github.com:AndreevVE/101025-ptm-Test.git
+   39  git remote add origin git@github.com:Olegdonezk/git_intro.git
+   40  git remote -v
+   41  git remote add origin git@github.com:Olegdonezk/git_intro.git
+   42  git push -u origin main
+   43  git branch -M main
+   44  git push -u origin main
+   45* 
+
+
+   46  git status
+   47  git remote add origin git@github.com:Olegdonezk/git_intro.git
+   48  ls -al
+   49  cd 101025-ptm-Test/
+   50  ls -al
+   51  cd ..
+   52  rm 101025-ptm-Test/
+   53  rm -rf 101025-ptm-Test/
+   54  rm -rf git/
+   55  cd .
+   56  cd ..
+   57  cd itcareerhub
+   58  ls -al
+   59  rm -rf .git
+   60  git clone git remote add origin git@github.com:Olegdonezk/git_intro.git
+   61  mkdir git_intro
+   62  cd git_intro
+   63  git init
+   64  ls -al
+   65  ls -al
+   66  git init
+   67  la ßal
+   68  la -al
+   69  ls -al
+   70  git init
+   71  git add image1.jpeg
+   72  git commit -m "image1.jpeg"
+   73  git branch -M main
+   74  git remote add origin git@github.com:Olegdonezk/git_intro.git
+   75  git push -u origin main
+   76  chmod +x myfirstbashscript.sh
+   77  chmod +x myfirstbashscript.sh
+   78  git branch
+   79  la -al
+   80  git clone git@hub.com:Olegdonezk/HomeWork12.git
+   81  nano ~/.ssh/config
+   82  ssh -T git@github.com
+   83  ssh -T git@github.com
+   84  git clone git@hub.com:Olegdonezk/HomeWork12.git
+   85  git clone git@github.com:Olegdonezk/HomeWork12.git
+   86  git checkout -b feature
+   87  cd HomeWork12
+   88  git checkout -b feature
+   89  echo "HomeWork12" > README.md
+   90  echo "merge_rebase/" >> gitignore
+   91  git add .
+   92  git commit - m "add README update .gitignore"
+   93  git push -u origin feature
+   94  gitc checkout main
+   95  git checkout main
+   96  git pull origin main
+   97  git merge feature
+   98  git push origin main
+   99  history > history.txt
